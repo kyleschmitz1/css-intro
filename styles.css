@@ -10,11 +10,12 @@ h1{
 
 body {
     color: red;
+    font-size: 40px;
 }
 
 .box {
     height: 100px;
-    width: 100px;
+    width: 2rem;
     padding: 20px;
     margin: 50px;
     border: 10px solid black;
